@@ -31,7 +31,7 @@ https://chat-talkative.vercel.app/
 ![Screenshot 2024-08-24 232657](https://github.com/user-attachments/assets/54d73535-cf2b-41ac-bea9-75bab3da11c4)
 * **Update Section**
   
-![Screenshot 2024-08-24 232706](https://github.com/user-attachments/assets/fcac0671-33eb-41d8-80e5-0b53b6b51f48)
+
 
 
 ### Technologies Used
